@@ -1,5 +1,5 @@
 import { getPlaiceholder } from "plaiceholder";
-import { Images, Photo } from "@/types/Image";
+import { Images } from "@/types/Image";
 
 async function base64Image(url: string) {
     try {
